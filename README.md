@@ -1,6 +1,6 @@
 # lipsum-shell
 
-A shell script to generate [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text.
+A shell script to generate [lorem ipsum](https://lipsumai.com/) dummy text.
 
 ## Installation
 
@@ -82,6 +82,10 @@ Structure commands also have the following aliases:
 | Paragraphs | `-w` | 4 |
 | Paragraphs | `-W` | 8 |
 
+
+https://lipsumai.com/
+
 ## License
+
 
 Code released under the [MIT License](https://github.com/alexchantastic/lipsum-shell/blob/master/LICENSE).
